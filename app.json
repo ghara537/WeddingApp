@@ -10,11 +10,17 @@
       "web"
     ],
     "version": "1.0.0",
+    "notification": {
+      "icon": "./assets/images/crown.png",
+      "color": "blue",
+      "iosDisplayInForeground": true,
+      "androidMode": "default"
+    },
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/crown.png",
     "scheme": "myapp",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/crown.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

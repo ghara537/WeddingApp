@@ -132,8 +132,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 4,
   },
   getStartedText: {
-    fontSize: 17,
-    color: 'rgba(96,100,109, 1)',
+    fontSize: 25,
+    color: 'red',
     lineHeight: 24,
     textAlign: 'center',
   },
